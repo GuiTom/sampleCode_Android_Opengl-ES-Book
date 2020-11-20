@@ -1,0 +1,7 @@
+#Thu Oct 26 11:29:34 CST 2017
+base.0=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e090e01497b978e0a43789683d059b33347014
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4dda94d70e037ab1b6e2a6f76976447c36aedc5/classes.dex
+base.1=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4dda94d70e037ab1b6e2a6f76976447c36aedc5
+file.0=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e090e01497b978e0a43789683d059b33347014/classes.dex

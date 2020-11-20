@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Oct 26 11:29:34 CST 2017
+2.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug
+5.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug/shaders/vertexShader.vert
+5.set=ASSET
+3.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4dda94d70e037ab1b6e2a6f76976447c36aedc5
+6.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug/shaders/fragmentShader.frag
+2.set=ASSET
+4.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug/textures/lightmap.png
+7.set=ASSET
+count=9
+0.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug
+8.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug
+1.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e090e01497b978e0a43789683d059b33347014/classes.dex
+1.set=DEX
+7.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug
+2.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/assets/debug/textures/basemap.png
+6.set=ASSET
+0.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4dda94d70e037ab1b6e2a6f76976447c36aedc5/classes.dex
+3.set=DEX
+1.base=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e090e01497b978e0a43789683d059b33347014
+4.file=/Users/chenchao/Desktop/OpenGL_ES/MultiTexture/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
